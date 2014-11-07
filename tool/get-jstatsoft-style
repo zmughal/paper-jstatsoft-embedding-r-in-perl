@@ -1,0 +1,5 @@
+#!/bin/sh
+
+CURDIR=`dirname "$0"`
+wget -c -P "$CURDIR" 'http://www.jstatsoft.org/downloads/JSSstyle.zip'
+unzip -d "$CURDIR/../style" "$CURDIR"/JSSstyle.zip
