@@ -1,0 +1,9 @@
+tool/JSSstyle.zip
+
+# unecessary files from style files archive
+style/jss.dtx
+style/bookreview.tex
+style/softwarereview.tex
+style/codesnippet.tex
+style/article.tex
+style/jss.pdf
